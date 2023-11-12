@@ -1,7 +1,10 @@
 Rencana membuat kontent php
+php framework CI
 konten linux
 *Ubuntu
 *Virtualisasi
 Konten Jaringan
 *VPN
 *LAG
+*Switching
+*Router
