@@ -1,5 +1,7 @@
 Rencana membuat kontent php
 konten linux
+*Ubuntu
+*Virtualisasi
 Konten Jaringan
 *VPN
 *LAG
