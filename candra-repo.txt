@@ -3,3 +3,6 @@ Repo Candra
 2. PHP Framework CI
 3. MYSQL
 4. Javascript
+
+Next Learn
+Python
