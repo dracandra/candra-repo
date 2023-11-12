@@ -5,3 +5,5 @@ konten linux
 Konten Jaringan
 *VPN
 *LAG
+*Switching
+*Router
