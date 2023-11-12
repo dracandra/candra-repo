@@ -1,4 +1,6 @@
 Rencana membuat kontent php
+Angular JS
+Vue JS
 konten linux
 *Ubuntu
 *Virtualisasi
